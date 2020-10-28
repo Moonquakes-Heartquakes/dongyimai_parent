@@ -1,0 +1,1 @@
+var app = angular.module('dongyimai', ['pagination']);  //参数2，引入第三方组件
